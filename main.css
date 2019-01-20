@@ -58,6 +58,7 @@ p
    height: 11%;
    border: 1px solid #7EBDC3;
     color: #E74C3C;
+    border-radius: 4px;
 }
 
 .input input[type=text]
@@ -66,4 +67,17 @@ p
    margin-left: 10px;
    height: 11%;
    border: 1px solid #7EBDC3;
+   border-radius: 4px;
+}
+
+.input input[type=submit]
+{
+    background: white;
+    border:1.5px solid #7EBDC3;
+    color: #7EBDC3;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 30px;
+    font-size: 10px;
+    border-radius: 4px;
 }
