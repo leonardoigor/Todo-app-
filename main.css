@@ -4,7 +4,7 @@ padding:0%;
 background: #ECF0F1;
 }
 
-.app
+.app 
 {
     display: flex;
     flex-wrap: wrap;
@@ -80,4 +80,40 @@ p
     height: 30px;
     font-size: 10px;
     border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Text user */
+
+#namelogin
+{
+    background: #E74C3C;
+    margin: 1px 1px 1px 264px;
+    width: 551px;
+    height: 44px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 4px 4px 0px 0px;
+}
+.back
+{
+    background: white;
+    width: 94%;
+    height: 72%;
+    border-radius: 4px;
+}
+#textnme
+{
+    background-color: white;
+    
+}
+#label
+{
+    background: white;
+   
+    color: #7EBDC3;
 }
